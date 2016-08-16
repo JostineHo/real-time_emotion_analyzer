@@ -1,6 +1,8 @@
+Webcam-Face-Detect
+==================
 
+Run the program like this:
 
-## Real-Time Emotion Analyzer
+python webcam.py haarcascade_frontalface_default.xml
 
-This app allows you to predict real-time emotion for facial expressions via your own webcam.
-
+If you want to understand how the code works,  see here: https://realpython.com/blog/python/face-detection-in-python-using-a-webcam/
