@@ -1,8 +1,7 @@
-Webcam-Face-Detect
-==================
+#Real Time Facial Emotion Analyzer
 
-Run the program like this:
 
+Run the program in terminal:
+```
 python webcam.py haarcascade_frontalface_default.xml
-
-If you want to understand how the code works,  see here: https://realpython.com/blog/python/face-detection-in-python-using-a-webcam/
+```
