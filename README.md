@@ -3,5 +3,5 @@
 
 Run the program in terminal:
 ```
-python webcam.py haarcascade_frontalface_default.xml
+python real-time.py haarcascade_frontalface_default.xml
 ```
